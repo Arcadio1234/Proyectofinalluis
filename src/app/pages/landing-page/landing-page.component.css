@@ -5,11 +5,12 @@
 
 body {
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: #5428ad;
   font-family: 'Montserrat', sans-serif;
+  background-color: #023047;
 }
 .container-fluid header nav ul li a{
-  color: white !important;
+  color: rgb(27, 16, 181) !important;
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -45,11 +46,11 @@ img {
 .card-title
 {
   font-weight: bold;
-  color: #fff;
+  color: rgb(255, 0, 0);
 }
 .card-text
 {
-  color: #fff;
+  color: rgb(255, 0, 0);
 }
 
 /* Center align the text within the three columns below the carousel */

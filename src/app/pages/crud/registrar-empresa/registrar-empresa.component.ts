@@ -35,7 +35,7 @@ export class RegistrarEmpresaComponent implements OnInit {
       Swal.fire
       ({
         icon: "error",
-        text: "Ha habido un error al registrar al empresa"
+        text: "Ha habido un error al registrar la empresa"
       });
     });
   }
