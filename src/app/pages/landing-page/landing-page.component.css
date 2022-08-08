@@ -1,12 +1,12 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Ubuntu:wght@300&display=swap');
 
 body {
   padding-bottom: 3rem;
   color: #5428ad;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inspiration', cursive;
   background-color: #023047;
 }
 .container-fluid header nav ul li a{
